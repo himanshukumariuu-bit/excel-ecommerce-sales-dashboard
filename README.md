@@ -1,5 +1,10 @@
 # E-Commerce Sales & Operations Dashboard — Excel
 
+## Dashboard Preview
+
+![E-Commerce Sales & Operations Dashboard](dashboard-preview.png)
+
+
 ## Project Overview
 An interactive Microsoft Excel dashboard built to analyze e-commerce sales performance, profitability, order trends, and product returns.
 
